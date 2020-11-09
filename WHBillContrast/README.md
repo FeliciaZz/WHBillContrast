@@ -1,1 +1,2 @@
-#WHBillContrast
+Camstar为基础连接的底层动态链接库
+
