@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\KunYue\\Developments\\6-Xamarin\\WHBillContrast\\WHBillContrast\\WHBillContrast.csproj": {}
+  },
+  "projects": {
+    "E:\\KunYue\\Developments\\6-Xamarin\\WHBillContrast\\WHBillContrast\\WHBillContrast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KunYue\\Developments\\6-Xamarin\\WHBillContrast\\WHBillContrast\\WHBillContrast.csproj",
+        "projectName": "WHBillContrast",
+        "projectPath": "E:\\KunYue\\Developments\\6-Xamarin\\WHBillContrast\\WHBillContrast\\WHBillContrast.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\KunYue\\Developments\\6-Xamarin\\WHBillContrast\\WHBillContrast\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "AndHUD": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
